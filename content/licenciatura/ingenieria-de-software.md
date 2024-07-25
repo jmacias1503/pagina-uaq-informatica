@@ -15,7 +15,6 @@ El Ingeniero de Software desarrollará sistemas de información que solucionará
 
 ## Específicos
 
-
 - Brindar los conocimientos para aplicar las herramientas necesarias para la especificación, diseño, verificación y validación de sistemas de software.
 - Proponer de manera proactiva soluciones a problemas de diferentes áreas y niveles de los procesos de negocio de una organización, que contribuyan a incrementar su competitividad.
 - Desarrollar la capacidad para estimar costos, factibilidad, pertinencia y retorno de inversión en proyectos de desarrollo de software.
@@ -100,27 +99,6 @@ El Ingeniero de Software será capaz de encontrar y aplicar el equilibrio entre 
 - Equidad.
 - Lealtad.
 
-# Requisitos de Admisión
-
-- Haber concluido los estudios de bachillerato.
-- Asistir y aprobar el curso propedéutico.
-- Aprobar el examen de selección. Examen de Conocimientos Básicos (EXCOBA), o el que determine la Secretaría Académica de la Universidad Autónoma de Querétaro.
-- Alcanzar el puntaje mínimo para ingreso.
-
-# Permanencia
-
-Los estudiantes de la Ingeniería de Software serán dados de baja y perderán todos los derechos académicos al incurrir en cualquiera de los siguientes casos: 
-
-- Acumular 3 NA's en la misma asignatura del plan de estudios.
-- Acumular un total de 12 NA's en el plan de estudios.
-- Acumular el 50% o más, de NA's en las asignaturas cursadas en el primer semestre.
-- Por expulsión definitiva de la Universidad, al imponerse como sanción por el Consejo Universitario.
-
-# Requisitos de Obtención de Grado
-
-- Haber acreditado todas las materias del plan de estudios.
-- Haber llevado a cabo las Prácticas Profesionales.
-- Haber realizado el Servicio Social.
-- Cumplir con el resto de los lineamientos establecidos en el Reglamento de Estudiantes de la UAQ.
+{{< permanencia >}}
 
 # Profesores del plan académico
