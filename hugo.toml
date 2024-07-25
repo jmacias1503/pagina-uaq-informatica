@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Facultad de Informática. Universidad Autónoma de Querétaro'
+languageCode = 'es'
+title = 'FIF UAQ'
 theme = 'lugo'
