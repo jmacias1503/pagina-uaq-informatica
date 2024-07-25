@@ -10,7 +10,7 @@ Actualmente cuenta con:
 
 Como servicios adicionales para alumnos y la comunidad en general, la Facultad imparte:
 
-- Cursos 
-- Talleres 
-- Diplomados 
+- {{< count-cursos >}} cursos 
+- {{< count-talleres >}}talleres 
+- {{< count-diplomados >}}diplomados 
 - Certificaciones 
