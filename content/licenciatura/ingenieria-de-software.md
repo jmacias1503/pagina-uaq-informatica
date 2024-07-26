@@ -1,7 +1,8 @@
 +++
-title = 'Ingeniería De Software'
-date = 2024-07-25T12:30:36-06:00
+title = 'Ingeniería de Software'
 +++
+
+Análisis, planificación, construcción e implementación de soluciones de software
 
 # Contacto
 

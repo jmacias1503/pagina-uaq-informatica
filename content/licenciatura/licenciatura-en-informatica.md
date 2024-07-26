@@ -1,7 +1,8 @@
 +++
 title = 'Licenciatura en Informática'
-date = 2024-07-25T14:49:01-06:00
 +++
+
+Fortalecimiento por medio del procesamiento de la generación de la información.
 
 # Contacto
 
@@ -99,6 +100,6 @@ El Licenciado en Informática será capaz de mejorar los procesos organizacional
 - Puntualidad.
 - Humanismo.
 
- {{< requisitos-admision-permanencia-y-requisitos-titulacion >}}
+{{< requisitos-admision-permanencia-y-requisitos-titulacion >}}
 
 # Profesores del plan académico
