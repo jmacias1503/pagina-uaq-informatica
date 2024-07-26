@@ -1,5 +1,5 @@
 +++
-title = 'Educacion Continua'
+title = 'Educación Continua'
 date = 2024-07-25T16:39:58-06:00
 +++
 
