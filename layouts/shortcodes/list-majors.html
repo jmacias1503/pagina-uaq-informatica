@@ -1,0 +1,7 @@
+<ul>
+{{ range (where .Site.RegularPages "Section" "==" "licenciatura")  }}
+<li class="major">{{ .Title }} <br>
+{{ .Summary }}
+</li>
+{{ end }}
+</ul>
