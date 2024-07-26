@@ -4,6 +4,8 @@ title = 'Ingeniería en Ciencia y Analítica de Datos'
 
 Gestión e interpretación de grandes volúmenes de datos mediante procesos computacionales.
 
+<!--more-->
+
 # Contacto
 
 # Objetivos

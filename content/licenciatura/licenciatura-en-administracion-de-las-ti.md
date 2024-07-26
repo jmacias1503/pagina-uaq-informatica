@@ -4,6 +4,8 @@ title = 'Licenciatura en Administración de las TI'
 
 Especialistas en la administración de tecnología.
 
+<!--more-->
+
 # Contacto
 
 # Objetivos

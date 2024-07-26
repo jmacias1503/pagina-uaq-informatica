@@ -4,6 +4,8 @@ title = 'Ingeniería en Telecomunicaciones y Redes'
 
 Diseño, planificación, desarrollo y mantenimiento de los sistemas de comunicaciones electrónicos analógicos y digitales.
 
+<!--more-->
+
 # Contacto
 
 # Objetivos

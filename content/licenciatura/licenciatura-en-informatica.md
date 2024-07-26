@@ -4,6 +4,8 @@ title = 'Licenciatura en Informática'
 
 Fortalecimiento por medio del procesamiento de la generación de la información.
 
+<!--more-->
+
 # Contacto
 
 # Objetivos
