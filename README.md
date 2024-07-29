@@ -12,4 +12,4 @@ For live changes editing the files
 hugo server --noHTTPCache
 ```
 
-For more information, check [HUGO's site for documentation](https://gohugo.io/documentation/)
+For more information, check [HUGO's documentation site](https://gohugo.io/documentation/)
