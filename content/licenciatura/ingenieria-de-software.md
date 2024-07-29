@@ -4,6 +4,8 @@ title = 'Ingeniería de Software'
 
 Análisis, planificación, construcción e implementación de soluciones de software
 
+![logo](/img/logos/sof.svg)
+
 <!--more-->
 
 # Contacto
