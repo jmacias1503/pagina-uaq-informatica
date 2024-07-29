@@ -12,7 +12,7 @@ When adding a new file, do it in the command line with:
 hugo new filename
 ```
 
-The file is going to be saved in the `content` folder, and it will use the `default.md` file from the `archetypes/` folder as a template for making the title and some other metadata, for more information look into [HUGO'S archetype page](https://gohugo.io/content-management/archetypes/)
+The file is going to be saved in the `content` folder, and it will use the `default.md` file from the `archetypes/` folder as a template for making the title and some other metadata (using the toml format), for more information look into [HUGO'S archetype page](https://gohugo.io/content-management/archetypes/)
 
 For live changes editing the files
 
