@@ -101,6 +101,6 @@ El ingeniero en computación realizará el diseño y desarrollo de software, par
 - Compromiso.
 - Sentido de pertenencia.
 
-{{< requisitos-admision-permanencia-y-requisitos-titulacion >}}
+{{< snippet-requisitos-admision-permanencia-y-requisitos-titulacion >}}
 
 # Profesores del plan académico

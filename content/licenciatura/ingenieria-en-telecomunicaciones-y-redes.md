@@ -107,6 +107,6 @@ Será un profesionista comprometido con la calidad y competitividad de la organi
 - Responsabilidad.
 - Lealtad.
 
-{{< requisitos-admision-permanencia-y-requisitos-titulacion >}}
+{{< snippet-requisitos-admision-permanencia-y-requisitos-titulacion >}}
 
 # Profesores del plan académico

@@ -102,6 +102,6 @@ El Ingeniero/a en Ciencia y Analítica de Datos será capaz de transformar, gest
 - Equidad.
 - Lealtad.
 
-{{< requisitos-admision-permanencia-y-requisitos-titulacion >}}
+{{< snippet-requisitos-admision-permanencia-y-requisitos-titulacion >}}
 
 # Profesores del plan académico

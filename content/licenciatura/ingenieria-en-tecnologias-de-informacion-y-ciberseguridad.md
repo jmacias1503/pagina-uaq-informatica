@@ -99,6 +99,6 @@ El egresado contará con las competencias para analizar, diseñar e implementar 
 - Lealtad
 - Equidad de género
 
-{{< requisitos-admision-permanencia-y-requisitos-titulacion >}}
+{{< snippet-requisitos-admision-permanencia-y-requisitos-titulacion >}}
 
 # Profesores del plan académico

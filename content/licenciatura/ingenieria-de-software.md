@@ -104,6 +104,6 @@ El Ingeniero de Software será capaz de encontrar y aplicar el equilibrio entre 
 - Equidad.
 - Lealtad.
 
-{{< requisitos-admision-permanencia-y-requisitos-titulacion >}}
+{{< snippet-requisitos-admision-permanencia-y-requisitos-titulacion >}}
 
 # Profesores del plan académico

@@ -102,6 +102,6 @@ El Licenciado en Informática será capaz de mejorar los procesos organizacional
 - Puntualidad.
 - Humanismo.
 
-{{< requisitos-admision-permanencia-y-requisitos-titulacion >}}
+{{< snippet-requisitos-admision-permanencia-y-requisitos-titulacion >}}
 
 # Profesores del plan académico

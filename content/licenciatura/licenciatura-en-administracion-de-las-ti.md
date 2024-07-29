@@ -101,6 +101,6 @@ Deberá tener una sólida formación en técnicas de análisis, evaluación de s
 - Responsabilidad.
 - Lealtad.
 
-{{< requisitos-admision-permanencia-y-requisitos-titulacion >}}
+{{< snippet-requisitos-admision-permanencia-y-requisitos-titulacion >}}
 
 # Profesores del plan académico
