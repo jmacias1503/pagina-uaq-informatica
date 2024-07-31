@@ -1,0 +1,8 @@
+<ul class="news">
+{{ $p := where site.Pages "Params.tags" "intersect" (slice "noticia") }}
+{{ range $p }}
+
+<li> <a href="{{.RelPermalink}}"> {{- if .Param "datesinlist" }}<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2006 Jan 02" }}</time> &ndash; {{ end -}} {{.Title}}</a></li>
+
+{{ end }}
+</ul>
