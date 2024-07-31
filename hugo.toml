@@ -14,7 +14,7 @@ title = 'FIF UAQ'
 weight = 1
 [languages.en]
 contentDir = 'content/en'
-disabled = true
+disabled = false
 languageCode = 'en-US'
 languageDirection = 'ltr'
 languageName = 'English'
