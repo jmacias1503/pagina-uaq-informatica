@@ -10,6 +10,8 @@ Análisis, planificación, construcción e implementación de soluciones de soft
 
 # Contacto
 
+{{< list-sof-chief >}}
+
 # Objetivos
 
 ## General

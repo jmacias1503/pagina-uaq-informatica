@@ -1,0 +1,6 @@
+{{ $p := where site.Pages "Params.tags" "intersect" (slice "coordinador-sof") }}
+{{ range $p }}
+
+<h2>{{.Title}}</h2>
+
+{{ end }}
