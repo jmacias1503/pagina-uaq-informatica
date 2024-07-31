@@ -14,3 +14,7 @@ Como servicios adicionales para alumnos y la comunidad en general, la Facultad i
 - {{< count-talleres >}}talleres 
 - {{< count-diplomados >}}diplomados 
 - Certificaciones
+
+# Nuestras licenciaturas
+
+{{< list-majors >}}
