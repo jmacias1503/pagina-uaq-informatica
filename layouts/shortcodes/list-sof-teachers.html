@@ -1,0 +1,8 @@
+<ul>
+{{ $p := where site.Pages "Params.tags" "intersect" (slice "sof" "docente") }}
+{{ range $p }}
+
+<li>{{.Title}}</li>
+
+{{ end }}
+</ul>

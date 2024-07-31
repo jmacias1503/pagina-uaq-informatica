@@ -109,3 +109,5 @@ El Ingeniero de Software será capaz de encontrar y aplicar el equilibrio entre 
 {{< snippet-requisitos-admision-permanencia-y-requisitos-titulacion >}}
 
 # Profesores del plan académico
+
+{{< list-sof-teachers>}}
