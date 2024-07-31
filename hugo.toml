@@ -12,3 +12,10 @@ languageCode = 'es-MX'
 languageName = 'Español'
 title = 'FIF UAQ'
 weight = 1
+[languages.en]
+contentDir = 'content/en'
+disabled = true
+languageCode = 'en-US'
+languageName = 'English'
+title = 'CS School UAQ'
+weight = 2
