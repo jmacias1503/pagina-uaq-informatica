@@ -1,4 +1,14 @@
 baseURL = 'https://example.org/'
-languageCode = 'es'
 title = 'FIF UAQ'
 theme = 'lugo'
+
+defaultContentLanguage = 'es'
+defaultContentLanguageInSubdir = true
+[languages]
+[languages.es]
+contentDir = 'content/es'
+disabled = false
+languageCode = 'es-MX'
+languageName = 'Español'
+title = 'FIF UAQ'
+weight = 1
