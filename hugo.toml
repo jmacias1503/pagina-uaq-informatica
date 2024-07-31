@@ -21,3 +21,11 @@ languageDirection = 'ltr'
 languageName = 'English'
 title = 'CS School UAQ'
 weight = 2
+[languages.de]
+contentDir = 'content/de'
+disabled = true
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+title = 'Informatikschule UAQ'
+weight = 2
