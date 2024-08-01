@@ -2,7 +2,7 @@
 {{ $p := where site.Pages "Params.tags" "intersect" (slice "sof" "docente") }}
 {{ range $p }}
 
-<li>{{.Title}}</li>
+<li><a href="{{.RelPermalink}}">{{.Title}}</a></li>
 
 {{ end }}
 </ul>
