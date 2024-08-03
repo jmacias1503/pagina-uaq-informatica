@@ -4,6 +4,8 @@ title = 'Ingeniería en Tecnologías de Información y Ciberseguridad'
 
 Implementación, mantenimiento y aseguramiento de la seguridad de la infraestructura de las TIC.
 
+![logo](/img/logos/itic.svg)
+
 <!--more-->
 
 # Contacto
