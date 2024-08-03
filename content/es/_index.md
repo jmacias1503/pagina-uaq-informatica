@@ -8,9 +8,9 @@ La Facultad de Informática desde su creación en el año de 1987 ha trabajado d
 
 Actualmente cuenta con: 
 
--  [{{< count-majors>}} licenciaturas](/licenciatura)
-- [{{< count-maestrias>}} maestrías](/maestria)
-- [{{< count-doctorados>}} doctorados](/doctorado)
+- {{< count-majors>}} licenciaturas
+- {{< count-maestrias>}} maestrías
+- {{< count-doctorados>}} doctorados
 
 Como servicios adicionales para alumnos y la comunidad en general, la Facultad imparte:
 
