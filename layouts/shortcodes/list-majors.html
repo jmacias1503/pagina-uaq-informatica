@@ -1,7 +1,8 @@
-<ul class="programs">
+<ul class="majors">
 {{ range (where .Site.RegularPages "Section" "==" "licenciatura")  }}
-<a href="{{ .RelPermalink }}"><li>{{ .Title }} <br>
+<li><h3>{{ .Title }}</h3>
 {{ .Summary }}
-</li></a>
+<a href="{{ .RelPermalink }}" id="read-more">Leer más</a>
+</li>
 {{ end }}
 </ul>

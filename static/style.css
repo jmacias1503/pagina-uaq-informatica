@@ -44,3 +44,35 @@ footer {
 #nextart,#prevart {
 	max-width: 33% ;
 }
+
+h1 {
+	text-align: center;
+}
+
+.majors{
+	text-align: center;
+	align-content: center;
+	justify-content: center;
+	display: flex;
+	max-width: 1280px;
+	list-style: none;
+	flex-wrap: wrap;
+	gap: 10px;
+}
+
+.majors > li{
+	min-height: 600px;
+	max-width: 300px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+#read-more {
+	font-weight: bold;
+	background-color: red;
+	padding: 4px;
+	border-radius: 6px;
+	justify-content: center;
+	margin: 0 auto;
+}
