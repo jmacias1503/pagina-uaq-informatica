@@ -1,5 +1,6 @@
 +++
 title = 'Ingeniería en Computación'
+tags = ['major']
 +++
 
 Fortalecemos la industria de Software Embebido construyendo plataformas móviles capaces de procesar, medir y actuar.

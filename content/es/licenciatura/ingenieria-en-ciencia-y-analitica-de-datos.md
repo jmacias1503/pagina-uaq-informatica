@@ -1,5 +1,6 @@
 +++
 title = 'Ingeniería en Ciencia y Analítica de Datos'
+tags = ['major']
 +++
 
 Gestión e interpretación de grandes volúmenes de datos mediante procesos computacionales.

@@ -1,5 +1,6 @@
 +++
 title = 'Licenciatura en Administración de las TI'
+tags = ['major']
 +++
 
 Especialistas en la administración de tecnología.

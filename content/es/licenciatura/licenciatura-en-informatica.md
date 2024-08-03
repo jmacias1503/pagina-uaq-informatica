@@ -1,5 +1,6 @@
 +++
 title = 'Licenciatura en Informática'
+tags = ['major']
 +++
 
 Fortalecimiento por medio del procesamiento de la generación de la información.
