@@ -1,5 +1,5 @@
 +++
-title = 'Centro De Desarrollo'
+title = 'Centro de Desarrollo'
 +++
 
 # Contacto
