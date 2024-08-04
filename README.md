@@ -20,4 +20,12 @@ For live changes editing the files
 hugo server --noHTTPCache
 ```
 
+# Alias file
+
+An alias file for shell is available at this repository, making easier the typing of the commands. For this alias to come to action, source the file
+
+```sh
+source alias.sh
+```
+
 For more information, check [HUGO's documentation site](https://gohugo.io/documentation/)
