@@ -14,7 +14,7 @@ title = 'FIF UAQ'
 weight = 1
 [languages.en]
 contentDir = 'content/en'
-disabled = false
+disabled = true
 languageCode = 'en-US'
 languageDirection = 'ltr'
 languageName = 'English'
@@ -27,4 +27,4 @@ languageCode = 'de-DE'
 languageDirection = 'ltr'
 languageName = 'Deutsch'
 title = 'Informatikschule UAQ'
-weight = 2
+weight = 3
