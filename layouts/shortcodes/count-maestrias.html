@@ -1,1 +1,2 @@
-{{ len (where .Site.RegularPages "Section" "==" "maestria") }}
+{{ $p := where site.RegularPages "Params.tags" "intersect" (slice "master-degree-program") }}
+{{ len $p }}
