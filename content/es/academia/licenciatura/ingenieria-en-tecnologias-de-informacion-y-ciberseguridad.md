@@ -1,6 +1,6 @@
 +++
 title = 'Ingeniería en Tecnologías de Información y Ciberseguridad'
-tags = ['major']
+tags = ['major-program']
 +++
 
 Implementación, mantenimiento y aseguramiento de la seguridad de la infraestructura de las TIC.

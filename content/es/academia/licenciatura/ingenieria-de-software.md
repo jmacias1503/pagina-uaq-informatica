@@ -1,6 +1,6 @@
 +++
 title = 'Ingeniería de Software'
-tags = ['major']
+tags = ['major-program']
 +++
 
 Análisis, planificación, construcción e implementación de soluciones de software

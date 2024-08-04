@@ -1,6 +1,6 @@
 +++
 title = 'Ingeniería en Telecomunicaciones y Redes'
-tags = ['major']
+tags = ['major-program']
 +++
 
 Diseño, planificación, desarrollo y mantenimiento de los sistemas de comunicaciones electrónicos analógicos y digitales.
