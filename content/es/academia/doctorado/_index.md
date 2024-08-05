@@ -1,3 +1,5 @@
 +++
 title = 'Doctorado'
 +++
+
+{{< list-phds >}}
