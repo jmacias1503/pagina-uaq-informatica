@@ -1,0 +1,8 @@
+<select name="Academia">
+{{ $p := where .Site.Pages "Section" "==" "academia" }}
+{{ range $p }}
+{{range .Sections}}
+<option value="{{.Title}}">{{.Title}}</option>
+{{end}}
+{{ end }}
+</select>
