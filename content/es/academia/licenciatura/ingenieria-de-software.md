@@ -32,6 +32,9 @@ El Ingeniero de Software desarrollará sistemas de información que solucionará
 # Programa
 
 ## Semestre 1
+
+{{< list-common-subjects >}}
+
 ## Semestre 2
 ## Semestre 3
 ## Semestre 4
