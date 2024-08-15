@@ -29,6 +29,10 @@ Este perfil busca formar profesionistas:
 
 # Programa
 
+## Semestre 1
+
+{{< list-common-subjects >}}
+
 # Perfil de Ingreso
 
 ## Conocimientos

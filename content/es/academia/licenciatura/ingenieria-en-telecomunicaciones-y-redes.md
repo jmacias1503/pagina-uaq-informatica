@@ -25,6 +25,10 @@ Formar capital humano con un enfoque orientado al diseño, implementación y man
 
 # Programa
 
+## Semestre 1
+
+{{< list-common-subjects >}}
+
 # Perfil de Ingreso
 
 ## Conocimientos

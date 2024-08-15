@@ -31,6 +31,10 @@ Formar profesionistas con conocimientos en el área de ciencia y análisis de da
 
 # Programa
 
+## Semestre 1
+
+{{< list-common-subjects>}}
+
 # Perfil de Ingreso
 
 ## Conocimientos

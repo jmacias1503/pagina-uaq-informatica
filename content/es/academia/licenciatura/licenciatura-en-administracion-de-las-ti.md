@@ -25,6 +25,10 @@ Formar capital humana con la combinación adecuada de conocimientos, práctica y
 
 # Programa
 
+# Semestre 1
+
+{{< list-common-subjects >}}
+
 # Perfil de Ingreso
 
 ## Conocimientos

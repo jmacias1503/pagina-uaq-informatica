@@ -27,6 +27,10 @@ Formar capital humano con la unión adecuada de conocimiento, práctica y experi
 
 # Programa
 
+## Semestre 1
+
+{{< list-common-subjects >}}
+
 # Perfil de Ingreso
 
 ## Conocimientos

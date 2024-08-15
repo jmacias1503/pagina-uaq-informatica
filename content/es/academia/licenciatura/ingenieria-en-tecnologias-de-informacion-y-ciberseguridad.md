@@ -32,6 +32,10 @@ Formar profesionistas con las competencias en Tecnologías de Información y Cib
 
 # Programa
 
+## Semestre 1
+
+{{< list-common-subjects >}}
+
 # Perfil de Ingreso
 
 ## Conocimientos
