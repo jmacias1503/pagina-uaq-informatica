@@ -69,8 +69,10 @@ h1 {
 }
 
 #read-more {
+	text-decoration: inherit;
 	font-weight: bold;
-	background-color: red;
+	color: white;
+	background-color: #298D81;
 	padding: 4px;
 	border-radius: 6px;
 	justify-content: center;
